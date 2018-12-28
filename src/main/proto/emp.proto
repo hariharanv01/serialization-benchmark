@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+// This is the package where the java source code will be placed.
+option java_package = "com.serialization.entities.generated";
+
+message Employee {
+    int32 id = 1;
+    string greeting = 2;
+    int64 dob = 3;
+    repeated string depts=4;
+}
