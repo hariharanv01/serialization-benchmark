@@ -2,5 +2,4 @@
 build
 target
 **/.DS_Store
-jmh-result.json
 *.iml
