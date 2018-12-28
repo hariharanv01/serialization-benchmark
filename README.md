@@ -43,7 +43,7 @@ Benchmark.kryoDeserialization            thrpt   25  2086853.436 ±  58593.784  
 
 ![Serialization](deserialization_benchmark.jpeg)
 
-**For more analysis go [here](https://github.com/hariharanv01/serialization-benchmark/blob/master/jmh-result.json)**
+**For more analysis go [here](http://jmh.morethan.io/?source=https://gist.githubusercontent.com/hariharanv01/ccd5e40bf0eea9ab0f9baf16149f8749/raw/26feb5cf0687ec39483faef95aa88e1289a6fb4c/jmh-result.json)
 
 #### Test settings
 
